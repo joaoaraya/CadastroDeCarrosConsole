@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Carros
 Gerencie carros com esse programa simples de cadastros.
-> Para abrir o progroma basta navegar até: `ex3/bin/debug/ex3.exe`
+> Para abrir o programa basta navegar até: `ex3/bin/debug/ex3.exe`
 
 ### Bem-vindo!
 ![welcome](https://1.bp.blogspot.com/-eF_ZMVxB4_s/Xqe5766McSI/AAAAAAAA1eQ/q55z8ibIsAQnwrYzRnWX-8JR4qJnFe8jwCNcBGAsYHQ/s1600/cadastrocarros%2B1.png)
