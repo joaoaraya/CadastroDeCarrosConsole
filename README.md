@@ -12,4 +12,4 @@ Gerencie carros com esse programa simples de cadastros.
 
 ### Cadastro
 ![Winner](https://1.bp.blogspot.com/-W8I_iOdPG8o/Xqe577NtlGI/AAAAAAAA1eY/fzK9lMEqx48LM3B2VWFDAv3Rgqx1iVl0gCNcBGAsYHQ/s1600/cadastrocarros%2B2.png)
-> No cadastro será solicidato informações sobre o veículo, como modelo, ano e cor. 
+> No cadastro será solicitado informações sobre o veículo, como: modelo, ano e cor. 
